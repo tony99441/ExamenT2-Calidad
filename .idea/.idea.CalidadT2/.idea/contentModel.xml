@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\EQUIPO\.nuget\packages\microsoft.net.test.sdk\16.5.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\EQUIPO\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\EQUIPO\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\EQUIPO\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\EQUIPO\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\EQUIPO\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\EQUIPO\.nuget\packages\nunit3testadapter\3.16.1\build\netcoreapp2.1\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\EQUIPO\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\EQUIPO\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CalidadT2.-834254053.00" t="ExcludeRecursive" />
+    <e p="D:\CalidadTony\t2\CalidadT2-master" t="IncludeFlat">
+      <e p="CalidadPruebasT2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalidadPruebasT2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CalidadPruebasT2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TestingControllers" t="Include">
+          <e p="AuthControllerTest.cs" t="Include" />
+          <e p="BibliotecaControllerTest.cs" t="Include" />
+          <e p="HomeControllerTest.cs" t="Include" />
+          <e p="LibroControllerTest.cs" t="Include" />
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+      <e p="CalidadT2" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalidadT2.csproj" t="IncludeRecursive" />
+        <e p="Constantes" t="Include">
+          <e p="ESTADO.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AuthController.cs" t="Include" />
+          <e p="BibliotecaController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="LibroController.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="SessionExtensions.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AppBibliotecaContext.cs" t="Include" />
+          <e p="Autor.cs" t="Include" />
+          <e p="Biblioteca.cs" t="Include" />
+          <e p="Comentario.cs" t="Include" />
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Libro.cs" t="Include" />
+          <e p="Maps" t="Include">
+            <e p="AutorMap.cs" t="Include" />
+            <e p="BibliotecaMap.cs" t="Include" />
+            <e p="ComentarioMap.cs" t="Include" />
+            <e p="LibroMap.cs" t="Include" />
+            <e p="UsuarioMap.cs" t="Include" />
+          </e>
+          <e p="Usuario.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="CalidadT2.AssemblyInfo.cs" t="Include" />
+              <e p="CalidadT2.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="AutorRepository.cs" t="Include" />
+          <e p="BibliotecaRepository.cs" t="Include" />
+          <e p="ComentarioRepository.cs" t="Include" />
+          <e p="LibroRepository.cs" t="Include" />
+          <e p="UsuarioRepository.cs" t="Include" />
+        </e>
+        <e p="scripts.sql" t="Include" />
+        <e p="Service" t="Include">
+          <e p="CookieAuthService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Auth" t="Include">
+            <e p="Login.cshtml" t="Include" />
+          </e>
+          <e p="Biblioteca" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+          </e>
+          <e p="Libro" t="Include">
+            <e p="Details.cshtml" t="Include" />
+          </e>
+          <e p="Pregunta" t="Include">
+            <e p="Crear.cshtml" t="Include" />
+            <e p="Editar.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LayoutLogin.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+            <e p="Examen" t="Include">
+              <e p="Crear.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+            </e>
+            <e p="HomeExamen" t="Include">
+              <e p="Confirmar.cshtml" t="Include" />
+              <e p="DarExamen.cshtml" t="Include" />
+              <e p="Index.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="Images" t="Include">
+            <e p="9788478884452.jpg" t="Include" />
+            <e p="9788498382679.jpg" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CalidadT2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

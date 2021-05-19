@@ -1,0 +1,40 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f8a2e47_002D6a89_002D4f35_002D8cba_002D25705834992f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanAgregaLibroAlaBiblioteca" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanAgregaLibroAlaBiblioteca&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanMarcaComoLeidoUnLibro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanMarcaComoTerminadoUnLibro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.LoggedUser&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.HomeControllerTest.UsuarioEntraAlIndex&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.LibroControllerTest.JuanEntraDetalleDeUnLibro&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d544a5f_002D6147_002D40ef_002Db578_002D1e386a2d9b04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JuanEntraDetalleDeUnLibro" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.LibroControllerTest.JuanEntraDetalleDeUnLibro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.LibroControllerTest.JuanAgregaComentarioDeUnLibro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.LibroControllerTest.JuanAgrecaComentarioLibro&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.AuthControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.HomeControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.LibroControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9c546a56_002D89df_002D407c_002D96bd_002Db4a70ff5040c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanAgregaLibroAlaBiblioteca #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanAgregaLibroAlaBiblioteca&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c0da8e43_002D9281_002D4327_002D8b3d_002D1adbec587ca3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="JuanAgregaLibroAlaBiblioteca #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanAgregaLibroAlaBiblioteca&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cda7c897_002Db27a_002D49a6_002D98d3_002D64c4cae3382a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UsuarioAndresSeLoguea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.AuthControllerTest.UsuarioJuanSeLoguea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.UsuarioEntraAlIndex&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::41B62A4C-C23C-46A0-9DC5-4664BD07884A::.NETCoreApp,Version=v3.1::CalidadPruebasT2.TestingControllers.BibliotecaControllerTest.JuanAgregaLibroAlaBiblioteca&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

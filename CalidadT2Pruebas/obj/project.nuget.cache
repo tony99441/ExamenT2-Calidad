@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEZMo1QCi/4yZj8+a3e09NAczFyYyL/Eig1hmpmZT4YG3K0x2ORpk+Mbs8cyIHDWDikFOT51cLJkc4lSUPL0+g==",
+  "success": true,
+  "projectFilePath": "D:\\CalidadTony\\t2\\CalidadT2-master\\CalidadT2Pruebas\\CalidadT2Pruebas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\EQUIPO\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
